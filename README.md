@@ -7,6 +7,6 @@ This repository represents my personal preferences in project structure. The sta
 - SQLite for the database
 - SCSS Modules for styling
 - Open Props for design tokens
+- Radix UI for unstyled primitives
 
 ## Getting up and running
-
