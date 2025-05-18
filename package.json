@@ -1,7 +1,7 @@
 {
-  "name": "clickdown",
+  "name": "boilerplate",
   "version": "1.0.0",
-  "description": "A blank template to get started with Payload 3.0",
+  "description": "Personal project template for my web applications",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -36,6 +36,7 @@
     "eslint": "^9.16.0",
     "eslint-config-next": "15.1.5",
     "prettier": "^3.4.2",
+    "sass": "^1.89.0",
     "typescript": "5.7.3"
   },
   "engines": {

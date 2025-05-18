@@ -1,8 +1,12 @@
-# Boilerplate 
+# Boilerplate
 
-blank
+This repository represents my personal preferences in project structure. The stack is as folllows:
 
-## Attributes
+- Next.js as the application framework
+- Payload CMS for content management
+- SQLite for the database
+- SCSS Modules for styling
+- Open Props for design tokens
 
-- **Database**: mongodb
-- **Storage Adapter**: localDisk
+## Getting up and running
+
