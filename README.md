@@ -8,5 +8,6 @@ This repository represents my personal preferences in project structure. The sta
 - SCSS Modules for styling
 - Open Props for design tokens
 - Radix UI for unstyled UI components
+- Optimized for Vercel storage
 
 ## Getting up and running
