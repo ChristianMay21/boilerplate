@@ -21,7 +21,7 @@
   }
 ```
 - Global styles should not be edited without explicit consultation with the user.
-- Use the design tokens in src/styles/design-system whenever possible - don't reinvent the wheel.
+- Use the design tokens in src/app/styles/open-props whenever possible - don't reinvent the wheel.
 - Avoid magic number solutions
 - Class names should appear in the `.scss` file in the order of their appearance within the HTML.
 - For complex layout, consider modern CSS grid solutions first
